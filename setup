@@ -51,6 +51,6 @@ echo '
       ---------------------------------   
     !!    Extract Successfull     !!  
       ---------------------------------   ' | lolcat
-echo
+sleep 3
 echo -e "\e[92m[+] Open New type this command:\e[93m bash teoiscamhack.sh\e[m "
 echo
