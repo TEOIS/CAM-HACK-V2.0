@@ -14,3 +14,6 @@ cd CAM V2.0
 chmod 777 *
 #
 bash teoiscamhack.sh
+#About Author
+This tool has been created by Mr.Bilal Ali.
+Bilal Ali is the one of the youngest certified ethical hacker of Pakistan and also got achieved 20+ Certification in the CYBERSECURITY. 
