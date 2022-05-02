@@ -9,4 +9,8 @@ chmod 777 *
 # Run file
 bash setup
 # After installing setup
+cd CAM V2.0
+#
+chmod 777 *
+#
 bash teoiscamhack.sh
